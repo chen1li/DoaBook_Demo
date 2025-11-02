@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Signal Model](README.md)
+* [信号模型](README.md)
+* [波束成形](bo-shu-cheng-xing.md)
